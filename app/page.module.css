@@ -1,0 +1,12 @@
+.container {
+  background-color: #f0f0f0;
+  font-family: monospace;
+  padding: 20px;
+}
+
+.heroGrid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
